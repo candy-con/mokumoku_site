@@ -24,7 +24,12 @@ html {
   /* Custom page CSS
   -------------------------------------------------- */
   /* Not required for template or sticky footer method. */
-   
+  .greetings {
+    color: white;
+    position: absolute;
+    top: 10%;
+    left:8%;
+  }
   .container {
     width: auto;
     max-width: 680px;
